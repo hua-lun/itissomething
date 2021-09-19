@@ -20,8 +20,11 @@
   "dependencies": {
     "@discordjs/builders": "^0.6.0",
     "@discordjs/rest": "^0.1.0-canary.0",
+    "@sashido/teachablemachine-node": "^1.2.2",
+    "@tensorflow/tfjs-node": "^3.9.0",
     "csvtojson": "^2.0.10",
     "discord-api-types": "^0.23.1",
-    "discord.js": "^13.1.0"
+    "discord.js": "^13.1.0",
+    "validator": "^13.6.0"
   }
 }
