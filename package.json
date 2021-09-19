@@ -1,0 +1,27 @@
+{
+  "name": "itissomething",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy-commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hua-lun/itissomething.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hua-lun/itissomething/issues"
+  },
+  "homepage": "https://github.com/hua-lun/itissomething#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "csvtojson": "^2.0.10",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0"
+  }
+}
